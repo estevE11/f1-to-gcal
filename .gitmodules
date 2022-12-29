@@ -1,6 +1,7 @@
 [submodule "gcalmanager"]
 	path = gcalmanager
 	url = https://github.com/estevE11/gcalmanager
-[submodule "py-f1-stats"]
-	path = py-f1-stats
-	url = https://github.com/estevE11/f1-py-stats
+
+[submodule "f1pystats"]
+	path = f1pystats
+	url = https://github.com/estevE11/f1pystats
